@@ -1,6 +1,9 @@
 # Ignore folder (custom)
 ignore/
 
+# Kiro IDE files
+.kiro/
+
 # Node modules
 node_modules/
 npm-debug.log*
